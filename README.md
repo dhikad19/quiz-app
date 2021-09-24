@@ -1,4 +1,4 @@
-## Quiz App Project
+## Quiz App
 
 This quiz made for educating purpose, have more class and leader board highscores.
 
